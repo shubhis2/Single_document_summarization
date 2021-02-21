@@ -1,0 +1,15 @@
+It seems that WhatsApp is in no mood to slow down. The instant messaging service keeps on rolling new features regularly to make the messaging app more intuitive and enhance user experience.
+
+It may have happened to a lot of users when a file, image, document or a video sent to them on WhatsApp, get accidentally deleted. "You've deleted the relative file in the WhatsApp folder, you weren't able to download it anymore, WABetaInfo said."
+
+ 
+
+In the latest beta version, Whatsapp now allows users to redownload deleted media from their servers again. Known WhatsApp beta tester, WABetaInfo asserted that "Since a few days, WhatsApp allows downloading deleted media from their servers again. This automatically translates into the fact that WhatsApp continues to store our media on their servers also after downloading them."
+
+Moreover, this new feature is not so new to WhatsApp. It was partially accessible before as well. The files which were not downloaded were available for about 30 days and, when the recipient downloaded the media, the file would get deleted from WhatsApp server.
+
+WhatsApp has modified this feature, “when a media is successfully downloaded, WhatsApp doesn’t delete it from the server, allowing the users to download it again if the file was accidentally deleted in the path where WhatsApp saves media.”
+
+During testing, files and videos received as early as two months back were easily downloaded and some even older files had to try multiple times in order to successfully redownload it, according to the report.
+
+Notably, even with the files stored on their server, the instant messaging app keeps the data secure. Media files continue to be end-to-end encrypted. Additionally, this feature is only available for Android users and not for iOS users.
