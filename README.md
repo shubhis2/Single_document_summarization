@@ -14,32 +14,30 @@ A Python-based tool for generating concise and accurate summaries from single do
 
 ## 🗂️ Folder Structure
 ```
-/project
+Single_document_summarization/
 │
-├── data/                # Sample input documents
-├── src/                 # Main Python code
-├── requirements.txt     # Dependencies
-├── README.md            # Project overview
+├── Dataset/                       # Folder for dataset-related files: This folder stores the raw datasets (e.g., news articles or text documents) used for training and testing the summarization model.
+│
+├── Model/                         # Folder for model-related files: This folder includes files that define the architecture of the model (e.g., `model.py`), as well as any pre-trained model weights or configuration files related to the summarization task.
+│
+├── SentenceLabel/                 # Folder for sentence labeling-related files: This folder contains files related to labeling sentences or extracting sentence-level information, which are used in the summarization pipeline.
+│
+├── news_download/                 # Folder for downloaded news or external data: This folder holds any downloaded news data, articles, or external resources used in the summarization process. For example, raw news articles or related documents.
+│
+├── README.md                      # Project overview and instructions
+
 ```
 
 ---
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/shubhis2/Single_document_summarization.git
    cd Single_document_summarization
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Run the project:
-   ```bash
-   python src/main.py
-   ```
 
 
